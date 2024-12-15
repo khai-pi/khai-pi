@@ -12,15 +12,15 @@ I'm Hoang Pham Minh Khai, i like techies stuffs and learning new things, welcome
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/khai-pi/khai-pi/blob/output/github-snake-dark.svg"
+    srcset="https://github.com/khai-pi/khai-pi/blob/main/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/khai-pi/khai-pi/blob/output/github-snake.svg"
+    srcset="https://github.com/khai-pi/khai-pi/blob/main/output/github-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://github.com/khai-pi/khai-pi/blob/output/github-snake.svg"
+    src="https://github.com/khai-pi/khai-pi/blob/main/output/github-snake.svg"
   />
 </picture>
 
