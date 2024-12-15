@@ -2,6 +2,7 @@
 I'm Hoang Pham Minh Khai, i like techies stuffs and learning new things, welcome to my Github page :)
 
 [![Khai's GitHub stats](https://github-readme-stats.vercel.app/api?username=khai-pi)](https://github.com/khai-pi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khai-pi)](https://github.com/khai-pi/github-readme-stats)
 <!--
 **khai-pi/khai-pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
