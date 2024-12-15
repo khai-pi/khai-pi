@@ -8,7 +8,7 @@ I'm Hoang Pham Minh Khai, i like techies stuffs and learning new things, welcome
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khai-pi&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-![Snake animation](https://github.com/thepiyushmalhotra/khai-pi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/khai-pi/khai-pi/blob/output/github-contribution-grid-snake.svg)
 
 ## :chart_with_upwards_trend:	 Stats 👨‍💻 LeetCode
 
