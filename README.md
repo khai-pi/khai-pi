@@ -1,8 +1,15 @@
 ## Hi there 👋
 I'm Hoang Pham Minh Khai, i like techies stuffs and learning new things, welcome to my Github page :)
 
-[![Khai's GitHub stats](https://github-readme-stats.vercel.app/api?username=khai-pi)](https://github.com/khai-pi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khai-pi)](https://github.com/khai-pi/github-readme-stats)
+<a href="https://github.com/khai-pi/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=khai-pi" />
+</a>
+<a href="https://github.com/khai-pi/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khai-pi&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+
 <!--
 **khai-pi/khai-pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
