@@ -1,6 +1,15 @@
 ## Hi there 👋
 I'm Hoang Pham Minh Khai, i like techies stuffs and learning new things, welcome to my Github page :)
 
+- 🔭 I’m currently working on templating for lambda app
+- 🌱 I’m currently learning AWS, CDK, RDS, Jest, Test Driven Design
+- 👯 I'm looking for a job at the moment
+- 🤔 I’m looking for help with building scalable infrastructure
+- 💬 Ask me about anything :)
+- 📫 How to reach me: Drop me a message here -> LinkedIn https://www.linkedin.com/in/pham-minh-khai-hoang/
+- 😄 Pronouns: Kai
+- ⚡ Fun fact: Einstein was born on 14 March 1879
+
 <a href="https://github.com/khai-pi/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=khai-pi&show_icons=true" />
 </a>
