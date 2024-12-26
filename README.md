@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Hoang Pham Minh Khai, i like techies stuffs and learning new things, welcome to my Github page :)
 
-- 🔭 I’m currently working on a platform where users the with idea can connect with developers
+- 🔭 I’m currently working on a platform where users with idea can connect with developers
 - 🌱 I’m currently learning AWS, CDK, RDS, Jest, Test Driven Design
 - 👯 I'm looking for a job at the moment
 - 🤔 I’m looking for help with building scalable infrastructure
